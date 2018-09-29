@@ -1,6 +1,13 @@
+dist: trusty
 language: node_js
 node_js:
   - "8"
+addons:
+  sonarcloud:
+    organization: "matsgm-github" # the key of the org you chose at step #3
 before_install: cd frontend
 install: npm install
-script: npm test
+script:
+  # other script steps might be done before running the actual analysis
+  - npm test
+  - sonar-scanner

@@ -1,6 +1,6 @@
 # Readable
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f15b49d831714d5abd7cbf82e85b4f4e)](https://app.codacy.com/app/matsgm/reactnd-project-readable-starter?utm_source=github.com&utm_medium=referral&utm_content=matsgm/reactnd-project-readable-starter&utm_campaign=Badge_Grade_Dashboard) [![Build Status](https://travis-ci.org/matsgm/reactnd-project-readable-starter.svg?branch=master)](https://travis-ci.org/matsgm/reactnd-project-readable-starter)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f15b49d831714d5abd7cbf82e85b4f4e)](https://app.codacy.com/app/matsgm/reactnd-project-readable-starter?utm_source=github.com&utm_medium=referral&utm_content=matsgm/reactnd-project-readable-starter&utm_campaign=Badge_Grade_Dashboard) [![Build Status](https://travis-ci.org/matsgm/reactnd-project-readable-starter.svg?branch=master)](https://travis-ci.org/matsgm/reactnd-project-readable-starter) [![Greenkeeper badge](https://badges.greenkeeper.io/matsgm/reactnd-project-readable-starter.svg)](https://greenkeeper.io/)
 
 This is the final assessment on Udacity's Redux course. It is a fork of Udacity's starter project. The frontend is based on 'create-react-app'.
 
